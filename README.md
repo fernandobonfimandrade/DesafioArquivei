@@ -7,10 +7,12 @@
     <li>Criar um endpoint (REST) no projeto onde o usuário informe uma chave de acesso e o sistema retorne o valor do documento</li>
 </ul>
 <hr>
-## Ferramentas utilizadas
-- [Utilizado framework PHP Laravel 8](https://laravel.com/docs/8.x/releases);
-- [Utilizado MYSQL como Banco de dados relacional];
-- [Utilizado POSTMAN para desenvolver a documentação da api];
-- [Utilizado DOCKER];
 
-Link para documentação no POSTMAN: https://documenter.getpostman.com/view/2974212/TVev44uR
+## Ferramentas utilizadas
+<ul>
+<li>Utilizado framework PHP Laravel 8](https://laravel.com/docs/8.x/releases);</li>
+<li>Utilizado MYSQL como Banco de dados relacional];</li>
+<li>Utilizado POSTMAN para desenvolver a documentação da api];</li>
+<li>Utilizado DOCKER];</li>
+</ul>
+<p>Link para documentação no POSTMAN: https://documenter.getpostman.com/view/2974212/TVev44uR <p>
