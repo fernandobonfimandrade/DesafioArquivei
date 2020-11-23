@@ -11,8 +11,9 @@
 ## Ferramentas utilizadas
 <ul>
 <li>Utilizado framework PHP Laravel 8](https://laravel.com/docs/8.x/releases);</li>
-<li>Utilizado MYSQL como Banco de dados relacional];</li>
-<li>Utilizado POSTMAN para desenvolver a documentação da api];</li>
-<li>Utilizado DOCKER];</li>
+<li>Utilizado MYSQL como Banco de dados relacional;</li>
+<li>Utilizado POSTMAN para desenvolver a documentação da api;</li>
+<li>Utilizado DOCKER;</li>
 </ul>
-<p>Link para documentação no POSTMAN: https://documenter.getpostman.com/view/2974212/TVev44uR <p>
+
+##Link para documentação no POSTMAN: https://documenter.getpostman.com/view/2974212/TVev44uR
